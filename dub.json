@@ -1,0 +1,14 @@
+{
+  "name": "vindinium-client",
+  "description": "A Vindinum client for D based AIs",
+  "copyright": "Copyright © 2014, Dylan Knutson",
+  "authors": ["Dylan Knutson"],
+  "dependencies": {
+    "std_data_json": "~master"
+  },
+
+  "license": "BSL-1.0",
+
+  "libs": ["curl"],
+  "targetType": "library"
+}
